@@ -20,6 +20,7 @@ Este é um projeto em Python que implementa um sistema simples de cadastro de al
 ## 📁 Estrutura do Projeto
 
 projeto-alunos/
+
 │
 ├── interface.py # Código principal da interface gráfica
 
