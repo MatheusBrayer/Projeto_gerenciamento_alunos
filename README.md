@@ -22,8 +22,11 @@ Este é um projeto em Python que implementa um sistema simples de cadastro de al
 projeto-alunos/
 │
 ├── interface.py # Código principal da interface gráfica
+
 ├── banco.py # Arquivo com funções de manipulação do banco de dados
+
 ├── alunos.db # Banco de dados gerado automaticamente
+
 └── README.md # Documentação do projeto
 
 
